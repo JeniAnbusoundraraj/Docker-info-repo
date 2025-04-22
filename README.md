@@ -4,6 +4,8 @@
 
 You can watch the video version of this repo on my youtube playlist. -> https://www.youtube.com/watch?v=7JZP345yVjw&list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC
 
+What is Docker, and what problem does it solve?
+Docker is a lightweight containerization platform that allows developers to package applications along with their dependencies, libraries, and configurations into a single unit called a container. This ensures that the application runs consistently across different environments, solving the classic "it works on my machine" problem. It’s more efficient than traditional virtual machines because containers share the host OS kernel, making them faster and more lightweight.
 
 ## What is a container ?
 
